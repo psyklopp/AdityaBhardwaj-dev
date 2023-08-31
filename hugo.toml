@@ -1,0 +1,5 @@
+baseURL = 'https://adityabhardwaj.dev/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'archie'
+publishDir = "docs"

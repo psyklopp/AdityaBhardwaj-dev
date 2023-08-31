@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://adityabhardwaj.dev/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 31 Aug 2023 18:53:50 +0200</lastBuildDate><atom:link href="https://adityabhardwaj.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://adityabhardwaj.dev/posts/my-first-post/</link>
+      <pubDate>Thu, 31 Aug 2023 18:53:50 +0200</pubDate>
+      
+      <guid>https://adityabhardwaj.dev/posts/my-first-post/</guid>
+      <description>Introduction This is bold text, and this is emphasized text</description>
+    </item>
+    
+  </channel>
+</rss>
