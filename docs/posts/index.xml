@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on My New Hugo Site</title>
-    <link>https://adityabhardwaj.dev/posts/</link>
+    <link>https://psyklopp.github.io/posts/</link>
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 31 Aug 2023 17:22:24 +0200</lastBuildDate><atom:link href="https://adityabhardwaj.dev/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 31 Aug 2023 17:22:24 +0200</lastBuildDate><atom:link href="https://psyklopp.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First Post</title>
-      <link>https://adityabhardwaj.dev/posts/first-post/</link>
+      <link>https://psyklopp.github.io/posts/first-post/</link>
       <pubDate>Thu, 31 Aug 2023 17:22:24 +0200</pubDate>
       
-      <guid>https://adityabhardwaj.dev/posts/first-post/</guid>
+      <guid>https://psyklopp.github.io/posts/first-post/</guid>
       <description>Introduction Hello world</description>
     </item>
     
