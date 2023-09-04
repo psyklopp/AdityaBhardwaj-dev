@@ -1,6 +1,7 @@
 ---
 title: "About me"
-date: 2023-09-04T21:53:50+02:00
+date: 2023-09-03T18:53:50+02:00
 draft: false
 ---
-Coming soon!
+
+ I will add here something about myself and some links later!
