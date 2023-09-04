@@ -76,6 +76,14 @@
 	</div>
 	<nav>
 		
+		<a href="/">Home</a>
+		
+		<a href="/posts">All posts</a>
+		
+		<a href="/about">About</a>
+		
+		<a href="/tags">Tags</a>
+		
 		| <span id="dark-mode-toggle" onclick="toggleTheme()"></span>
 		<script src="https://adityabhardwaj.dev/js/themetoggle.js"></script>
 		
@@ -84,19 +92,19 @@
 
 			
 			<main class="list">
-				<div class="site-description"><p>Welcome to my blog | Writeups and Musings</p></div>
+				<div class="site-description"><p>Cybersecurity student in ELTE | <a href="https://www.youtube.com/@Psyklopp">Amateur DJ</a></p></div>
 				
 				
 				
 				<section class="list-item">
-					<h1 class="title"><a href="/posts/my-first-post/">My First Post</a></h1>
-					<time>Aug 31, 2023</time>
+					<h1 class="title"><a href="/posts/1-setting-up-hugo-github-pages/">Setting up Hugo for your custom domain</a></h1>
+					<time>Sep 3, 2023</time>
 					<br><div class="description">
 	
-	Introduction This is bold text, and this is emphasized text&hellip;
+	I came across some fairly simple issues while I was setting up this website. It&#39;s better to make a note of these so that it is easier next time. It had to do with installing theme as a submodule and also setting the correct publishing source.
 	
 </div>
-					<a class="readmore" href="/posts/my-first-post/">Read more ⟶</a>
+					<a class="readmore" href="/posts/1-setting-up-hugo-github-pages/">Read more ⟶</a>
 				</section>
 				
 				
@@ -104,15 +112,20 @@
 
 			</main>
 			<footer>
-  <div style="display:flex"></div>
+  <div style="display:flex"><a class="soc" href="https://github.com/psyklopp" rel="me" title="GitHub"><i data-feather="github"></i></a>
+    <a class="border"></a><a class="soc" href="https://www.youtube.com/@Psyklopp" rel="me" title="YouTube"><i data-feather="youtube"></i></a>
+    <a class="border"></a><a class="soc" href="https://www.linkedin.com/in/ab4dev" rel="me" title="LinkedIn"><i data-feather="linkedin"></i></a>
+    <a class="border"></a></div>
   <div class="footer-info">
-    2023  <a
+    2023  © Aditya |  <a
       href="https://github.com/athul/archie">Archie Theme</a> | Built with <a href="https://gohugo.io">Hugo</a>
   </div>
 </footer>
 
 
-
+<script>
+  feather.replace()
+</script>
 		</div>
 		
 	</body>

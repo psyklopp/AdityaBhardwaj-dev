@@ -5,6 +5,26 @@
     <link>https://adityabhardwaj.dev/tags/</link>
     <description>Recent content in Tags on Aditya Bhardwaj</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://adityabhardwaj.dev/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <copyright>© Aditya</copyright>
+    <lastBuildDate>Sun, 03 Sep 2023 18:53:50 +0200</lastBuildDate><atom:link href="https://adityabhardwaj.dev/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GitHub Pages</title>
+      <link>https://adityabhardwaj.dev/tags/github-pages/</link>
+      <pubDate>Sun, 03 Sep 2023 18:53:50 +0200</pubDate>
+      
+      <guid>https://adityabhardwaj.dev/tags/github-pages/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>https://adityabhardwaj.dev/tags/hugo/</link>
+      <pubDate>Sun, 03 Sep 2023 18:53:50 +0200</pubDate>
+      
+      <guid>https://adityabhardwaj.dev/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

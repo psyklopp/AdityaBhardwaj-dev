@@ -6,14 +6,17 @@
     <description>Recent content on Aditya Bhardwaj</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 31 Aug 2023 18:53:50 +0200</lastBuildDate><atom:link href="https://adityabhardwaj.dev/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© Aditya</copyright>
+    <lastBuildDate>Sun, 03 Sep 2023 18:53:50 +0200</lastBuildDate><atom:link href="https://adityabhardwaj.dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
-      <link>https://adityabhardwaj.dev/posts/my-first-post/</link>
-      <pubDate>Thu, 31 Aug 2023 18:53:50 +0200</pubDate>
+      <title>Setting up Hugo for your custom domain</title>
+      <link>https://adityabhardwaj.dev/posts/1-setting-up-hugo-github-pages/</link>
+      <pubDate>Sun, 03 Sep 2023 18:53:50 +0200</pubDate>
       
-      <guid>https://adityabhardwaj.dev/posts/my-first-post/</guid>
-      <description>Introduction This is bold text, and this is emphasized text</description>
+      <guid>https://adityabhardwaj.dev/posts/1-setting-up-hugo-github-pages/</guid>
+      <description>I had used Jekyll or Hugo some time ago. So this time when I setup this website, I had a couple of issues. It would be safe to say that there are some tasks that we think, are going to be easy but then it takes more time than intended.
+I am going to list the main points here so that it is easier for my future self too.
+This little blogpost assumes that the DNS record is set up correctly for your custom domain.</description>
     </item>
     
   </channel>
