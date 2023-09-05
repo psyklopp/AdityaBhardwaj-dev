@@ -10,10 +10,10 @@
     <lastBuildDate>Sun, 03 Sep 2023 18:53:50 +0200</lastBuildDate><atom:link href="https://adityabhardwaj.dev/tags/github-pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Setting up Hugo for your custom domain</title>
-      <link>https://adityabhardwaj.dev/posts/1-setting-up-hugo-github-pages/</link>
+      <link>https://adityabhardwaj.dev/posts/setting-up-hugo-custom-domain/</link>
       <pubDate>Sun, 03 Sep 2023 18:53:50 +0200</pubDate>
       
-      <guid>https://adityabhardwaj.dev/posts/1-setting-up-hugo-github-pages/</guid>
+      <guid>https://adityabhardwaj.dev/posts/setting-up-hugo-custom-domain/</guid>
       <description>I had used Jekyll or Hugo some time ago. So this time when I setup this website, I had a couple of issues. It would be safe to say that there are some tasks that we think, are going to be easy but then it takes more time than intended.
 I am going to list the main points here so that it is easier for my future self too.
 This little blogpost assumes that the DNS record is set up correctly for your custom domain.</description>

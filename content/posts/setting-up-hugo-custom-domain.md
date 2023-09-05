@@ -22,7 +22,7 @@ When I was first setting up the theme I have on this site, I followed the steps 
 
 This took some time for me to understand. If you went to your website repository and then `Settings > Pages`, you can choose the branch and the folder from where the site will be built from.
 
-If you already have a GitHub repository for your website, you might wanna do 
+If you already have a GitHub repository for your website, you might wanna do the following after you `cd` into your git repository.
     
     hugo new site .\ --force
 
@@ -31,6 +31,16 @@ instead of
     hugo new site quickstart
 
 as shared in their official docs. 
+
+You want all the directory structure in your current project and **NOT** in a separte folder inside your GitHub repo.
+
+The last step would be to add the line to the `hugo.toml`
+
+    publishDir = "docs"
+
+The generated static files will then be stored in the above folder. This is important because if you see the `Pages` setting for your repository it gives you the option to choose the branch and folder. That's why we set it up to be docs. Just choose `docs`.
+
+{{< figure src="https://raw.githubusercontent.com/psyklopp/AdityaBhardwaj-dev/main/images/docs_publish_site.png" title="Publishing source for your website" >}}
 
 ## Using GitHub for hosting images
 
