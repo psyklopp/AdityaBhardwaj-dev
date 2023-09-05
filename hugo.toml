@@ -16,7 +16,7 @@ pygmentscodefencesguesssyntax = true
 	subtitle = "Cybersecurity student in ELTE | [Amateur DJ](https://www.youtube.com/@Psyklopp)"
 	mathjax = true # enable MathJax support
 	katex = true # enable KaTeX support
-	favicon = "https://github.com/psyklopp/AdityaBhardwaj-dev/blob/main/favicon.png"
+	favicon = "https://raw.githubusercontent.com/psyklopp/AdityaBhardwaj-dev/main/favicon.png"
 
 
 [[params.social]]
