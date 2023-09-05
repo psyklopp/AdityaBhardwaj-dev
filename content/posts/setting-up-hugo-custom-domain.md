@@ -51,4 +51,6 @@ This is the most simple yet the most stupid mistake I made. The `hugo.toml` file
 
 I know, trivial but something I will keep in mind.
 
+Good reference: [Create a website with Hugo and GitHub pages](https://4bes.nl/2021/08/29/create-a-website-with-hugo-and-github-pages/)
+
 -----
