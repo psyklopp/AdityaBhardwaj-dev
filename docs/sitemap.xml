@@ -2,10 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://adityabhardwaj.dev/about/</loc>
-    <lastmod>2023-09-03T18:53:50+02:00</lastmod>
-  </url><url>
     <loc>https://adityabhardwaj.dev/</loc>
+    <lastmod>2023-09-10T09:53:50+02:00</lastmod>
+  </url><url>
+    <loc>https://adityabhardwaj.dev/posts/</loc>
+    <lastmod>2023-09-10T09:53:50+02:00</lastmod>
+  </url><url>
+    <loc>https://adityabhardwaj.dev/posts/learning-linux-devops/</loc>
+    <lastmod>2023-09-10T09:53:50+02:00</lastmod>
+  </url><url>
+    <loc>https://adityabhardwaj.dev/about/</loc>
     <lastmod>2023-09-03T18:53:50+02:00</lastmod>
   </url><url>
     <loc>https://adityabhardwaj.dev/tags/github-pages/</loc>
@@ -17,9 +23,6 @@
     <loc>https://adityabhardwaj.dev/links/</loc>
     <lastmod>2023-09-03T18:53:50+02:00</lastmod>
   </url><url>
-    <loc>https://adityabhardwaj.dev/posts/</loc>
-    <lastmod>2023-09-03T18:53:50+02:00</lastmod>
-  </url><url>
     <loc>https://adityabhardwaj.dev/posts/setting-up-hugo-custom-domain/</loc>
     <lastmod>2023-09-03T18:53:50+02:00</lastmod>
   </url><url>
@@ -27,5 +30,7 @@
     <lastmod>2023-09-03T18:53:50+02:00</lastmod>
   </url><url>
     <loc>https://adityabhardwaj.dev/categories/</loc>
+  </url><url>
+    <loc>https://adityabhardwaj.dev/tags/education/courses/</loc>
   </url>
 </urlset>

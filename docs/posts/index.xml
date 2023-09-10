@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Aditya</copyright>
-    <lastBuildDate>Sun, 03 Sep 2023 18:53:50 +0200</lastBuildDate><atom:link href="https://adityabhardwaj.dev/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 Sep 2023 09:53:50 +0200</lastBuildDate><atom:link href="https://adityabhardwaj.dev/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Will I finally learn something new</title>
+      <link>https://adityabhardwaj.dev/posts/learning-linux-devops/</link>
+      <pubDate>Sun, 10 Sep 2023 09:53:50 +0200</pubDate>
+      
+      <guid>https://adityabhardwaj.dev/posts/learning-linux-devops/</guid>
+      <description>I also recently applied for a Product Support Intern position in Ericsson recently. It didn&amp;rsquo;t ask for a lot of technical skills but it surely mentions that a good understanding of Linux, IP, Cloud technologies or Python is an advantage. Of course it is.
+Keeping up and polishing the basics is the most important aspect of being a developer. The time when I was working in India as a Java developer, my manager often emphasized how crucial it is to be VERY good with the basics of the technology you are working on/with.</description>
+    </item>
+    
     <item>
       <title>Setting up Hugo for your custom domain</title>
       <link>https://adityabhardwaj.dev/posts/setting-up-hugo-custom-domain/</link>
