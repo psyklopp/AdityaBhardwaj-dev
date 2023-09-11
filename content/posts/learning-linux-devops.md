@@ -30,14 +30,14 @@ It consisted of the following sections:
 
 {{< figure src="https://raw.githubusercontent.com/psyklopp/AdityaBhardwaj-dev/main/images/2-auxiliary-skills.png" title="Looks like I am analytical" >}}
 
-The first two sections were related to the soft skills that are required on the job. I really liked this part because the questions looked like someone put time in making them (or money acquiring these). I was presented with some simple scenarios and was then asked on how I would respond or react in such situations. I didn’t take screenshots of any questions as I was enjoying answering them.
+The `first two sections` were related to the soft skills that are required on the job. I really liked this part because the questions looked like someone put time in making them (or money acquiring these). I was presented with some simple scenarios and was then asked on how I would respond or react in such situations. I didn’t take screenshots of any questions as I was enjoying answering them.
 
 The main aim of these questions is to help the employer judge how the candidates deal with
 issues or conflicts.
 
 {{< figure src="https://raw.githubusercontent.com/psyklopp/AdityaBhardwaj-dev/main/images/2-iq.png" title="Big brains moment" >}}
 
-The third section - cognitive testing, included an IQ test. Almost all of them included patterns of shapes where I had to choose the next one that would make the most sense. I like how NIX puts it about the IQ test:
+The `third section` - cognitive testing, included an IQ test. Almost all of them included patterns of shapes where I had to choose the next one that would make the most sense. I like how NIX puts it about the IQ test:
 >It is only an indicator of one’s ability to quickly recognize the logic behind the task given in the assessment.
 
 That is very true. Some of the questions were pretty easy but few really put me in the thinking soon haha. It was nevertheless very fun to feel your brain machinery working a little overtime. I don’t think you can really prepare for such tests. Maybe there are some
@@ -46,14 +46,40 @@ think and concentrate… and find logic behind things.
 
 {{< figure src="https://raw.githubusercontent.com/psyklopp/AdityaBhardwaj-dev/main/images/2-technical-skills.png" title="Technical questions" >}}
 
-The fourth section was all about the technical skills. I made a note of the topics from where the questions were asked. They were simple and straightforward but required you to be well aware of the basics in that particular topic. It was objective-type quiz and as far as I
+The `fourth section` was all about the technical skills. I made a note of the topics from where the questions were asked. They were simple and straightforward but required you to be well aware of the basics in that particular topic. It was objective-type quiz and as far as I
 remember were multiple-choice questions.
 
--- add the topics here
+1. `Networking and Internet Protocols`
+* SSH
+* Ping command
+* iptables
+* IPv4 and IPv6
+* MAC addresses
+* Internet protocols
+* DNS
+* TCP/UDP
+
+2. `Linux Administration and Security`
+
+* Linux file permissions
+* Linux users and groups
+* CLI (Command Line Interface)
+* Firewall
+* Server authentication
+
+3. `Web and Server Technologies`
+
+* E-mail protocols
+* Web servers
+* HTTP status error codes
+
+4. `Linux Operating System`
+
+* Linux distributions
 
 {{< figure src="https://raw.githubusercontent.com/psyklopp/AdityaBhardwaj-dev/main/images/2-nix-factor.png" title="If you are a good fit in the NIX team" >}}
 
-The last two sections included questions that will help NIX gauge your way of working and how you interact with your customers/co-workers. They are aptly named NIX factor and Social Interactions. They are pretty much self-explanatory. Honestly, I don’t remember
+The `last two sections` included questions that will help NIX gauge your way of working and how you interact with your customers/co-workers. They are aptly named NIX factor and Social Interactions. They are pretty much self-explanatory. Honestly, I don’t remember
 much about the questions so can’t share more details. It, most probably, consisted of questions where you had to deal with a situation, or a scenario and you had to choose from the given options.
 
 ## End of the selection procedure
@@ -63,8 +89,12 @@ tasks and a candidate must appear for an interview in the end. Sadly, when I sha
 
 Of course, I will not be able to do that just now. The rep told me to keep up with the updates on the NIX website and apply for the same course after I graduate.
 
-I was a little sad as I really wanted to do this course. But on the information page on NIX, they have shared a neat document that is full of resources for learning DevOps and Linux administration. I think I will go ahead and start studying from the list. 
+I was a little sad as I really wanted to do this course. But on the information page on NIX, they have shared a neat document that is full of resources for learning DevOps and Linux administration. 
 
-`Something is better than nothing!`
+Link to the document: [Recommended reading for learning Linux/DevOps](https://nixstech.com/wp-content/uploads/2023/01/DevOps.pdf)
+
+I think I will go ahead and start studying from the list. `Something is better than nothing!`
+
+* I saw the updated post and noticed that the images are nearly impossible to view properly. While they don't show anything very important, I will take care about this from now on and make sure that they are legible.
 
 -----
