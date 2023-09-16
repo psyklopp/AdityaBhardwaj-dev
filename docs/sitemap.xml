@@ -3,19 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://adityabhardwaj.dev/</loc>
-    <lastmod>2023-09-12T20:44:50+02:00</lastmod>
-  </url><url>
-    <loc>https://adityabhardwaj.dev/tags/personal/</loc>
-    <lastmod>2023-09-12T20:44:50+02:00</lastmod>
+    <lastmod>2023-09-10T09:53:50+02:00</lastmod>
   </url><url>
     <loc>https://adityabhardwaj.dev/posts/</loc>
-    <lastmod>2023-09-12T20:44:50+02:00</lastmod>
-  </url><url>
-    <loc>https://adityabhardwaj.dev/tags/</loc>
-    <lastmod>2023-09-12T20:44:50+02:00</lastmod>
-  </url><url>
-    <loc>https://adityabhardwaj.dev/posts/a-festival-offended-or-instagram-mistake/</loc>
-    <lastmod>2023-09-12T20:44:50+02:00</lastmod>
+    <lastmod>2023-09-10T09:53:50+02:00</lastmod>
   </url><url>
     <loc>https://adityabhardwaj.dev/posts/learning-linux-devops/</loc>
     <lastmod>2023-09-10T09:53:50+02:00</lastmod>
@@ -33,6 +24,9 @@
     <lastmod>2023-09-03T18:53:50+02:00</lastmod>
   </url><url>
     <loc>https://adityabhardwaj.dev/posts/setting-up-hugo-custom-domain/</loc>
+    <lastmod>2023-09-03T18:53:50+02:00</lastmod>
+  </url><url>
+    <loc>https://adityabhardwaj.dev/tags/</loc>
     <lastmod>2023-09-03T18:53:50+02:00</lastmod>
   </url><url>
     <loc>https://adityabhardwaj.dev/categories/</loc>
