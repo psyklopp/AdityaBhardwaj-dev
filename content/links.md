@@ -8,7 +8,7 @@ Here I will share the links of my other social media profiles or online presence
 
 ## My latest mix!
 
- {{< youtube ORsi58uYZkg >}}
+ {{< youtube Q9LeDYjshFU >}}
 
 YouTube channel: [Psyklopp](https://www.youtube.com/@Psyklopp)
 
