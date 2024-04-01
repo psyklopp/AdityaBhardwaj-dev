@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Aditya</copyright>
-    <lastBuildDate>Sat, 30 Sep 2023 08:53:50 +0200</lastBuildDate><atom:link href="https://adityabhardwaj.dev/tags/personal/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 30 Mar 2024 08:53:50 +0200</lastBuildDate><atom:link href="https://adityabhardwaj.dev/tags/personal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The beginning of the end</title>
+      <link>https://adityabhardwaj.dev/posts/006-learning-linux-and-thesis/</link>
+      <pubDate>Sat, 30 Mar 2024 08:53:50 +0200</pubDate>
+      
+      <guid>https://adityabhardwaj.dev/posts/006-learning-linux-and-thesis/</guid>
+      <description>Happy Easter!
+It is actually a surprise (to me) that I am watching tutorials and started learning about Linux (because I want to know more about DevOps and maybe have a job). TCM Security has a Linux 101 course which I am following at the moment. I also made a couple of notes which I will share here. I think it&amp;rsquo;s a good practice and should continue to do it.</description>
+    </item>
+    
     <item>
       <title>A little update...</title>
       <link>https://adityabhardwaj.dev/posts/a-little-update/</link>
