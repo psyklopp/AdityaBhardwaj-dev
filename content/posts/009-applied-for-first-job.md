@@ -1,6 +1,6 @@
 ---
 title: "So it begins - Job Hunting"
-date: 2024-06-12T13:33:50+02:00
+date: 2024-06-12T08:33:50+02:00
 draft: false
 description: "I am one step away from graduating university with MSc. degree from ELTE! But it is just a milestone not the destination. I want to use my skills in the industry and hence comes the job hunting."
 tags: [Personal]
@@ -22,7 +22,7 @@ Let's look at the required qualifications for the job. It is a good reference po
 
 I have copied all the details to a separate file because the job listings are removed after some time.
 
-[Citi - Vulnerability Assessment Junior Analyst]()
+[Citi - Vulnerability Assessment Junior Analyst](https://raw.githubusercontent.com/psyklopp/AdityaBhardwaj-dev/main/job-listings/citi-Vulnerability-Assessment-Junior-Analyst.md)
 
 I will try to focus on the main requirements here.
 
