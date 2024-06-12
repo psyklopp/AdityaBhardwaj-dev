@@ -86,12 +86,5 @@
       <guid>https://adityabhardwaj.dev/posts/setting-up-hugo-custom-domain/</guid>
       <description>I had used Jekyll or Hugo some time ago. So this time when I setup this website, I had a couple of issues. It would be safe to say that there are some tasks that we think, are going to be easy but then it takes more time than intended.&#xA;I am going to list the main points here so that it is easier for my future self too.&#xA;This little blogpost assumes that the DNS record is set up correctly for your custom domain.</description>
     </item>
-    <item>
-      <title></title>
-      <link>https://adityabhardwaj.dev/posts/citi-vulnerability-assessment-junior-analyst/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://adityabhardwaj.dev/posts/citi-vulnerability-assessment-junior-analyst/</guid>
-      <description>The text here is taken directly from the job listing.&#xA;Vulnerability Assessment Junior Analyst Job Req ID: 24751946 Location(s): Budapest, Hungary Job Type: Hybrid Job Category: Technology&#xA;Citi&amp;rsquo;s Vulnerability Assessments is responsible for providing Vulnerability Assessment services to all Citi businesses and technology teams globally. The duties of a VA analyst will include manual and automated testing through a defined testing process.The analyst will be identifying weaknesses and vulnerabilities within the Citi infrastructure and applications.</description>
-    </item>
   </channel>
 </rss>
