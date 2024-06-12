@@ -43,3 +43,5 @@ Web development and programming languages i.e. Python, Perl, Ruby, Java, and/or 
 ## Starting it
 
 I will now start tackling the requirements of technical skills one by one.
+
+The first thing is to learn basic networking and protocols. So on it from now on!
