@@ -42,6 +42,4 @@ Web development and programming languages i.e. Python, Perl, Ruby, Java, and/or 
 
 ## Starting it
 
-
-
-**Have a lot of writing to do for thesis! Hoping everything works out**
+I will now start tackling the requirements of technical skills one by one.
