@@ -12,5 +12,9 @@ I had a long day working on the presentation for my thesis. I added content on S
 
 The next thing to do is to add the [ROS attack](https://eprint.iacr.org/2020/945.pdf).
 
-## Job Hunting - Fundamentals
+## Job Hunting Day #1 - Fundamentals
+
+I will start with topic of 'Network Security' and mainly refer to good online articles.
+
+Maybe I should start with networking concepts first.
 
