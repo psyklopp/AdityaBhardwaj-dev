@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Job Hunting on Aditya Bhardwaj</title>
-    <link>http://localhost:1313/tags/job-hunting/</link>
+    <link>http://localhost:50561/tags/job-hunting/</link>
     <description>Recent content in Job Hunting on Aditya Bhardwaj</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Aditya</copyright>
     <lastBuildDate>Thu, 13 Jun 2024 19:42:05 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/job-hunting/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:50561/tags/job-hunting/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Job Hunting Day-1</title>
-      <link>http://localhost:1313/posts/010-job-hunting-day-1/</link>
+      <link>http://localhost:50561/posts/010-job-hunting-day-1/</link>
       <pubDate>Thu, 13 Jun 2024 19:42:05 +0200</pubDate>
-      <guid>http://localhost:1313/posts/010-job-hunting-day-1/</guid>
+      <guid>http://localhost:50561/posts/010-job-hunting-day-1/</guid>
       <description>It is 7:44 P.M. at the time of writing.&#xA;I had a long day working on the presentation for my thesis. I added content on Shortest Vector Problem (SVP) and Shortest Integer Solution (SIS) which are important concepts in lattice-based cryptography. Though I am sure I added the important parts I will also refer to these notes for a better understanding.&#xA;The next thing to do is to add the ROS attack.</description>
     </item>
   </channel>
