@@ -2,60 +2,60 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Personal on Aditya Bhardwaj</title>
-    <link>http://localhost:50561/tags/personal/</link>
+    <link>https://adityabhardwaj.dev/tags/personal/</link>
     <description>Recent content in Personal on Aditya Bhardwaj</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Aditya</copyright>
     <lastBuildDate>Wed, 12 Jun 2024 08:33:50 +0200</lastBuildDate>
-    <atom:link href="http://localhost:50561/tags/personal/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://adityabhardwaj.dev/tags/personal/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>So it begins - Job Hunting</title>
-      <link>http://localhost:50561/posts/009-applied-for-first-job/</link>
+      <link>https://adityabhardwaj.dev/posts/009-applied-for-first-job/</link>
       <pubDate>Wed, 12 Jun 2024 08:33:50 +0200</pubDate>
-      <guid>http://localhost:50561/posts/009-applied-for-first-job/</guid>
+      <guid>https://adityabhardwaj.dev/posts/009-applied-for-first-job/</guid>
       <description>In my last post I mentioned that I will try going to a café perhaps, to study and increase my working hours. Well it worked!&#xA;I was able to finish my thesis just because I went out to an environment which was not super comfortable. In my case, it was McDonald&amp;rsquo;s. Yep, I was going out everyday, buying a coffee and sitting for 3-4 hours. Super productive&#xA;End of studies I was able to finish my thesis on time and now I am preparing for the thesis defense.</description>
     </item>
     <item>
       <title>Moving on...</title>
-      <link>http://localhost:50561/posts/008-feeling-better/</link>
+      <link>https://adityabhardwaj.dev/posts/008-feeling-better/</link>
       <pubDate>Thu, 18 Apr 2024 08:53:50 +0200</pubDate>
-      <guid>http://localhost:50561/posts/008-feeling-better/</guid>
+      <guid>https://adityabhardwaj.dev/posts/008-feeling-better/</guid>
       <description>Now that the date is getting closer I feel more anxious. But I have been trying to keep it in under check.&#xA;Going outside, like to a cafe It gets a little harder when you have to sit down, in your room and focus on your work. I am not sure what&amp;rsquo;s the exact reason but I guess it&amp;rsquo;s more comfortable at home and you have a lot of stuff that you can get distracted by.</description>
     </item>
     <item>
       <title>Journaling and Thesis</title>
-      <link>http://localhost:50561/posts/007-journaling/</link>
+      <link>https://adityabhardwaj.dev/posts/007-journaling/</link>
       <pubDate>Sun, 14 Apr 2024 08:53:50 +0200</pubDate>
-      <guid>http://localhost:50561/posts/007-journaling/</guid>
+      <guid>https://adityabhardwaj.dev/posts/007-journaling/</guid>
       <description>I am more focused on my thesis than ever. So it is very common to lose the train of thought and spiral down into side-quests (which are not important at the moment)&#xA;Writing helps Because my brain is just working and thinking about so many things at the same time, writing them down narrows the big tunnel of thoughts. It&amp;rsquo;s almost like meditating, but actively choosing to think about one topic at particular at a time.</description>
     </item>
     <item>
       <title>The beginning of the end</title>
-      <link>http://localhost:50561/posts/006-learning-linux-and-thesis/</link>
+      <link>https://adityabhardwaj.dev/posts/006-learning-linux-and-thesis/</link>
       <pubDate>Sat, 30 Mar 2024 08:53:50 +0200</pubDate>
-      <guid>http://localhost:50561/posts/006-learning-linux-and-thesis/</guid>
+      <guid>https://adityabhardwaj.dev/posts/006-learning-linux-and-thesis/</guid>
       <description>Happy Easter!&#xA;It is actually a surprise (to me) that I am watching tutorials and started learning about Linux (because I want to know more about DevOps and maybe have a job). TCM Security has a Linux 101 course which I am following at the moment. I also made a couple of notes which I will share here. I think it&amp;rsquo;s a good practice and should continue to do it.</description>
     </item>
     <item>
       <title>A little update...</title>
-      <link>http://localhost:50561/posts/a-little-update/</link>
+      <link>https://adityabhardwaj.dev/posts/a-little-update/</link>
       <pubDate>Sat, 30 Sep 2023 08:53:50 +0200</pubDate>
-      <guid>http://localhost:50561/posts/a-little-update/</guid>
+      <guid>https://adityabhardwaj.dev/posts/a-little-update/</guid>
       <description>Just wanted to come here and share that I have been quite busy these days. First, I am still waiting for Ericsson and SAP to respond to the internship application :/ I have also been trying to keep up with the college work. I chose &amp;ldquo;Comparative study of post-quantum key-exchange mechanisms and its implementations&amp;rdquo; for one of my labs. It will require me to make a report and a presentation on my findings.</description>
     </item>
     <item>
       <title>Decided on my learning path</title>
-      <link>http://localhost:50561/posts/a-helpful-visit/</link>
+      <link>https://adityabhardwaj.dev/posts/a-helpful-visit/</link>
       <pubDate>Mon, 18 Sep 2023 18:53:50 +0200</pubDate>
-      <guid>http://localhost:50561/posts/a-helpful-visit/</guid>
+      <guid>https://adityabhardwaj.dev/posts/a-helpful-visit/</guid>
       <description>Updated on 20 September&#xA;It has to be something.&#xA;It’s been so much time since I picked up a good technical skill or knowledge.&#xA;I hope this post doesn’t turn into a rant, but I am here to share what I plan to follow. There are so many paths, roadmaps, guides, or websites that one can follow. Classic case of information-overload. Happened to me as well, and me, being anxious and over-thinking, it hits hard.</description>
     </item>
     <item>
       <title>The curious case of my missing Instagram story</title>
-      <link>http://localhost:50561/posts/a-festival-offended-or-instagram-mistake/</link>
+      <link>https://adityabhardwaj.dev/posts/a-festival-offended-or-instagram-mistake/</link>
       <pubDate>Sat, 16 Sep 2023 11:39:50 +0200</pubDate>
-      <guid>http://localhost:50561/posts/a-festival-offended-or-instagram-mistake/</guid>
+      <guid>https://adityabhardwaj.dev/posts/a-festival-offended-or-instagram-mistake/</guid>
       <description>I had made this post on September 12 originally.&#xA;I was waiting for a reply from Instagram naively. After reading a bunch of articles, I can state it safely that it is highly improbable that someone will even look at it.&#xA;A longshot I will give a little bit of the backstory&amp;hellip; I had posted a story on Instagram that said I will make a few mixes titled SANTSAT killer. Here&amp;rsquo;s the screenshot of the story which I took.</description>
     </item>
   </channel>

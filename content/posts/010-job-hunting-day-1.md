@@ -1,5 +1,5 @@
 ---
-title: "Job Hunting Day-1"
+title: "Job Hunting Day 1"
 date: 2024-06-13T19:42:05+02:00
 draft: false
 description: "I continue working on my thesis presentation as well as start learning some security fundamentals."
