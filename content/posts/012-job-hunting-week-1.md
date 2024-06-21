@@ -23,5 +23,6 @@ So I should be learning more stuff. I do have a LinkedIn Premium subscription an
 I will collect my thoughts this weekend and implement the weekly-post thingy this Monday.
 
 Best Regards
+
 A.B.
 
