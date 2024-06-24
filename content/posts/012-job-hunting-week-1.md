@@ -1,5 +1,5 @@
 ---
-title: "Job Hunting Week-1: Hoping on one job application. Moving to weekly post!"
+title: "Job Hunting: Hoping on one job application. Moving to weekly post!"
 date: 2024-06-21T22:42:52+02:00
 draft: false
 description: "I have applied to about 8-10 jobs up until now. I was asked my salary expectation among other HR stuff by one company. It is highly relevant and I will like it most probably."
