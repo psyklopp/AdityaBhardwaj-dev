@@ -6,6 +6,8 @@ description: "I am back to square one as the the company which I had talked abou
 tags: [Job Hunting]
 ---
 
+This is the week where I have my thesis defense. And then I can finally say that I completed my Master's degree!
+
 ## 24 June - Monday
 
 - I just finished writing notes for OSI Model and will share them soon in my website [Dezible](https://www.dezible.com).
