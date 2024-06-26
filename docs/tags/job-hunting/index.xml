@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Job Hunting on Aditya Bhardwaj</title>
-    <link>http://localhost:1313/tags/job-hunting/</link>
+    <link>https://adityabhardwaj.dev/tags/job-hunting/</link>
     <description>Recent content in Job Hunting on Aditya Bhardwaj</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Aditya</copyright>
     <lastBuildDate>Mon, 24 Jun 2024 20:44:04 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/job-hunting/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://adityabhardwaj.dev/tags/job-hunting/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Job Hunting: Week 1: Need to showcase what I know</title>
-      <link>http://localhost:1313/posts/013-job-hunting-week-1/</link>
+      <link>https://adityabhardwaj.dev/posts/013-job-hunting-week-1/</link>
       <pubDate>Mon, 24 Jun 2024 20:44:04 +0200</pubDate>
-      <guid>http://localhost:1313/posts/013-job-hunting-week-1/</guid>
-      <description>This is the week where I have my thesis defense. And then I can finally say that I completed my Master&amp;rsquo;s degree!&#xA;24 June - Monday I just finished writing notes for OSI Model and will share them soon in my website Dezible. I think this was the first time when I actually liked learning (and not just cramming) about OSI layer. </description>
+      <guid>https://adityabhardwaj.dev/posts/013-job-hunting-week-1/</guid>
+      <description>This is the week where I have my thesis defense. And then I can finally say that I completed my Master&amp;rsquo;s degree!&#xA;24 June - Monday I just finished writing notes for OSI Model and will share them soon in my website Dezible. I think this was the first time when I actually liked learning (and not just cramming) about OSI layer. 25 June - Tuesday It was a fun night as my friend was leaving back to India.</description>
     </item>
     <item>
       <title>Job Hunting: Hoping on one job application. Moving to weekly post!</title>
-      <link>http://localhost:1313/posts/012-job-hunting-week-1/</link>
+      <link>https://adityabhardwaj.dev/posts/012-job-hunting-week-1/</link>
       <pubDate>Fri, 21 Jun 2024 22:42:52 +0200</pubDate>
-      <guid>http://localhost:1313/posts/012-job-hunting-week-1/</guid>
+      <guid>https://adityabhardwaj.dev/posts/012-job-hunting-week-1/</guid>
       <description>One of my old-childhood friend came to Budapest to visit me and the city. It was really nice as we went to the Coldplay concert and even went to thermal bath. Though I enjoyed a lot, I was not able to devote much time to job hunting. I have received a warm response from one of the jobs I applied to and I am really hoping to hear positive news.</description>
     </item>
     <item>
       <title>Job Hunting Day 2</title>
-      <link>http://localhost:1313/posts/011-job-hunting-day-2/</link>
+      <link>https://adityabhardwaj.dev/posts/011-job-hunting-day-2/</link>
       <pubDate>Fri, 14 Jun 2024 16:42:52 +0200</pubDate>
-      <guid>http://localhost:1313/posts/011-job-hunting-day-2/</guid>
+      <guid>https://adityabhardwaj.dev/posts/011-job-hunting-day-2/</guid>
       <description>I have been focusing more on the job hunting process now. Although I still have my thesis defense to prepare, would it even matter even if I ace it?&#xA;Although I would feel very happy to conclude my studies but as an immigrant, you have to think about the next (two)steps at any given point of time.&#xA;I have applied to a total of 4 jobs up until now. Let&amp;rsquo;s see where that goes.</description>
     </item>
     <item>
       <title>Job Hunting Day 1</title>
-      <link>http://localhost:1313/posts/010-job-hunting-day-1/</link>
+      <link>https://adityabhardwaj.dev/posts/010-job-hunting-day-1/</link>
       <pubDate>Thu, 13 Jun 2024 19:42:05 +0200</pubDate>
-      <guid>http://localhost:1313/posts/010-job-hunting-day-1/</guid>
+      <guid>https://adityabhardwaj.dev/posts/010-job-hunting-day-1/</guid>
       <description>It is 7:44 P.M. at the time of writing.&#xA;I had a long day working on the presentation for my thesis. I added content on Shortest Vector Problem (SVP) and Shortest Integer Solution (SIS) which are important concepts in lattice-based cryptography. Though I am sure I added the important parts I will also refer to these notes for a better understanding.&#xA;The next thing to do is to add the ROS attack.</description>
     </item>
   </channel>
