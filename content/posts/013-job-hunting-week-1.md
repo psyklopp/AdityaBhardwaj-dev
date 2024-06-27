@@ -23,3 +23,8 @@ This is the week where I have my thesis defense. And then I can finally say that
 - I am not applying to jobs at the moment. Want to do the thesis defense with some preparation!
 - Pretty sure that I got the flow of my presentation sorted out.
 - Still thinking about the career choice.
+
+# 27 June - Thursday
+
+- I was up all night trying to finish the presentation.
+- It is nearly done! Just one more day and it will be show time :) 
