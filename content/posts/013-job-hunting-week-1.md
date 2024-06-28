@@ -28,3 +28,11 @@ This is the week where I have my thesis defense. And then I can finally say that
 
 - I was up all night trying to finish the presentation.
 - It is nearly done! Just one more day and it will be show time :) 
+
+# 28 June - Friday
+
+- And it is a wrap! I got the grade 'excellent' for my thesis. Never thought I will be so proud of completing a degree.
+- Now on to the next steps of finding a good job.
+
+Out for the week! The plan is to organize my thoughts and go for the job hunting properly.
+
