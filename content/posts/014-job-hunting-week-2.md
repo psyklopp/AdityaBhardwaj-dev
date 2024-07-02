@@ -18,6 +18,26 @@ I had my thesis defense on 28 June, Friday and I am happy to announce it was suc
 - Advertisers can sponsor if the text is relevant.
 - Option to change text size.
 
+# 02 July - Tuesday
+
+- Made a small list of resources like websites and blogs where I can see news.
+- Will be using RSS reader to fetch latest posts.
+- Created Google alerts for keywords related to cybersecurity.
+- Need to start learning development in Flutter.
+- And also plan to do some courses on the 'LinkedIn Learning' platform.
+
+I have a good collection of resources to start at the moment. Maybe I can start posting content on LinkedIn. Need to create a habit of creating content.
+
+## Long-term goals
+
+- [ ] Create a web app. Invite only
+- [ ] People can choose their favorite story. Win a chance to get vouchers in cybersecurity.
+- [ ] Keep low barriers to trying your app.
+- [ ] Gamifying can help.
+
+
+---
+
 This way I will make something for real. And will keep learning about cybersecurity too. Let's go.
 
 Let's make something useful for people.
