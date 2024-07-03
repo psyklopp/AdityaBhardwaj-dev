@@ -28,6 +28,12 @@ I had my thesis defense on 28 June, Friday and I am happy to announce it was suc
 
 I have a good collection of resources to start at the moment. Maybe I can start posting content on LinkedIn. Need to create a habit of creating content.
 
+# 03 July - Wednesday
+
+- I have started the course [Flutter & Dart - The Complete Guide](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/)
+- I had started this course even before but that was the time when I was busy with the admission process as well.
+- This time, I will finish it for sure.
+
 ## Long-term goals
 
 - [ ] Create a web app. Invite only
