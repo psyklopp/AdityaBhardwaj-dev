@@ -34,6 +34,14 @@ I have a good collection of resources to start at the moment. Maybe I can start 
 - I had started this course even before but that was the time when I was busy with the admission process as well.
 - This time, I will finish it for sure.
 
+# 04 July - Thursday
+
+- I was able to run the test application for Flutter with Visual Studio as the IDE.
+- It was also important to apply some settings for the editor UI and it was successful (though it took some time)
+- Now I can continue following the course
+- Made a long list of things I have to do - maybe I should write more, everyday.
+
+
 ## Long-term goals
 
 - [ ] Create a web app. Invite only
