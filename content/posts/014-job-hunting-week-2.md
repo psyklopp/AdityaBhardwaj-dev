@@ -40,7 +40,13 @@ I have a good collection of resources to start at the moment. Maybe I can start 
 - It was also important to apply some settings for the editor UI and it was successful (though it took some time)
 - Now I can continue following the course
 - Made a long list of things I have to do - maybe I should write more, everyday.
+- Make use of LinkedIn Learning.
 
+# 05 July - Friday
+
+- A really productive day.
+- Figured out my short term goal and a way to align it with my long-term goal.
+- More coming soon ...
 
 ## Long-term goals
 
