@@ -20,6 +20,10 @@ tags: [Job Hunting]
 
 # 09 July - Tuesday
 
+- I have to build a VM environment for learning Windows Server and another environment for Malware analysis.
+- Closed in more on the template to use for the newsletter. It's basic-simple and is dark-theme.
+- Have to write fresh content for Dezible. Maybe I should document my journey and share it on LinkedIn as well.
+
 
 # 10 July - Wednesday
 
