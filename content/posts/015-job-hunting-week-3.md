@@ -27,6 +27,13 @@ tags: [Job Hunting]
 
 # 10 July - Wednesday
 
+- I was able to install Windows Server 2022 and Windows 10 Enterprise on VirtualBox successfully.
+- Made the header for the newsletter. Now will test by adding some text.
+- But there is a lot of personal work left at the moment - Administration stuff for Visa. Phew.
+- Started maintaining a spreadsheet for my daily work and keeping track of resources I use.
+- Better to follow the course on malware analysis by TCM - can move to advanced course after that.
+- Will focus on Malware, Breaches and Vulnerabilities in the newsletter - with reports/findings at the side.
+- Should also start CTFs - I found a good site
 
 # 11 July - Thursday
 
