@@ -37,9 +37,18 @@ tags: [Job Hunting]
 
 # 11 July - Thursday
 
+- I would call it a productive day. I was able to get my personal shit done.
+- There are a couple more things to take care of.
 
 # 12 July - Friday
 
+- Looks like I am nearly done with the documentation required for the Visa thingy.
+- But it was very hot and I didn't feel like doing anything.
+- A little sad because, though I have things-to-do already planned, takes more than just time to get on them and finish them.
+- Should not aim for perfection. Should start writing right away.
 
 
+...
+It will be a better week ahead for sure.
+...
 ---
