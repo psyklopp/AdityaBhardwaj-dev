@@ -9,6 +9,13 @@ tags: [Job Hunting]
 ## This week is a little different as I will be outside Budapest for the majority of the week.
 ---
 
+I was outside Budapest and came back today (Friday 19 July). I am still in the process of applying for a job-seeking visa. There was one important document for which I had to return early but eventually I was able to vist the office to get the same!
+
+CTFs is something I had never tried before but they are very interesting and I want to continue doing it.
+
+I am applying to various jobs and no one wants to give a chance, even for just an interview or a preliminary discussion. It's also time to redo my CV perhaps?
+
+Currently I am also working on developing a Wordpress website. I have some experience with using Wordpress and this allows me to earn some much-needed-cash.
 
 ...
 I am still hopeful to find a suitable job where I can learn more.
