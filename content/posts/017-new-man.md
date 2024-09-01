@@ -2,7 +2,7 @@
 title: "You a new man. She said with a smile."
 date: 2024-08-05T14:30:04+02:00
 draft: false
-description: "The last 2 weeks were stressful. I realized how fast things can move. Things you think are always going to stay with you. And shoulder-pain didn't make it all better."
+description: "The last 2 weeks were stressful. I realized how fast things can move. Things you think are always going to stay with you. Maybe they don't. And shoulder-pain didn't make it all better."
 tags: [Job Hunting,]
 ---
 

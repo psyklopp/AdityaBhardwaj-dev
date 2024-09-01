@@ -6,7 +6,7 @@ draft: false
 
 Here I will share the links of my other social media profiles or online presence.
 
-The primary one being [Dezible](https://dezible.com), my new website where I plan to include articles geared towards a certification. My main focus is Blue-team i.e. Defensive security.
+The primary one being [Dezible](https://dezible.com), my project where I want to share presentations on academic research. The focus being advancements in cybersecurity + AI field.
 
 I also DJ sometimes and normally post my mixes on YouTube but here's my Soundcloud page: [Psyklopp - Soundcloud](https://soundcloud.com/psyklopp)
 

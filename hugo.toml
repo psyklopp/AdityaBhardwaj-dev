@@ -13,7 +13,7 @@ pygmentscodefencesguesssyntax = true
 [params]
 	mode="dark" # color-mode → light,dark,toggle or auto
 	useCDN=false # don't use CDNs for fonts and icons, instead serve them locally.
-	subtitle = "Cybersecurity student in ELTE | [Amateur DJ](https://www.youtube.com/@Psyklopp)"
+	subtitle = "Cybersecurity | Research | MSc."
 	mathjax = true # enable MathJax support
 	katex = true # enable KaTeX support
 	favicon = "https://raw.githubusercontent.com/psyklopp/AdityaBhardwaj-dev/main/favicon.png"
