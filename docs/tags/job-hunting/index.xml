@@ -2,67 +2,74 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Job Hunting on Aditya Bhardwaj</title>
-    <link>https://adityabhardwaj.dev/tags/job-hunting/</link>
+    <link>http://localhost:1313/tags/job-hunting/</link>
     <description>Recent content in Job Hunting on Aditya Bhardwaj</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Aditya</copyright>
-    <lastBuildDate>Mon, 05 Aug 2024 14:30:04 +0200</lastBuildDate>
-    <atom:link href="https://adityabhardwaj.dev/tags/job-hunting/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 17 Oct 2024 14:30:04 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/job-hunting/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Multi-tasking between PhD applications and personal projects</title>
+      <link>http://localhost:1313/posts/020-doing-a-lot-of-things/</link>
+      <pubDate>Thu, 17 Oct 2024 14:30:04 +0200</pubDate>
+      <guid>http://localhost:1313/posts/020-doing-a-lot-of-things/</guid>
+      <description>PhD I have been applying to some PhD programes recently. A fair amount of research needs to be put in:&#xA;Narrowing down your research interest. Searching for relevant PhD vacancies. Applying with tailor-made cover letters and CV. Honestly, I like putting in the work. Because it&amp;rsquo;s fun and engaging.&#xA;It is the only time when someone actually reads your stuff (hopefully). Hence, I am even more motivated to craft applications with care.</description>
+    </item>
     <item>
       <title>You a new man. She said with a smile.</title>
-      <link>https://adityabhardwaj.dev/posts/017-new-man/</link>
+      <link>http://localhost:1313/posts/017-new-man/</link>
       <pubDate>Mon, 05 Aug 2024 14:30:04 +0200</pubDate>
-      <guid>https://adityabhardwaj.dev/posts/017-new-man/</guid>
+      <guid>http://localhost:1313/posts/017-new-man/</guid>
       <description>Although I try to be optimistic mostly. The past few days gave me a hard reality check and most importantly, made me realize how people are the most important part of your life. In my last post, I had shared that I was in the process of applying for the job-seeking visa. It turned out that the rules now are EXTREMELY strict regarding the timeline of application.&#xA;The staff in one of the office branches straight-up refused to accept my application.</description>
     </item>
     <item>
       <title>Job Hunting: Week 4: A little break. Focusing on important things to do. Doing CTFs so that I can include their writeups with the newsletter.</title>
-      <link>https://adityabhardwaj.dev/posts/016-job-hunting-week-4/</link>
+      <link>http://localhost:1313/posts/016-job-hunting-week-4/</link>
       <pubDate>Thu, 18 Jul 2024 11:34:04 +0200</pubDate>
-      <guid>https://adityabhardwaj.dev/posts/016-job-hunting-week-4/</guid>
+      <guid>http://localhost:1313/posts/016-job-hunting-week-4/</guid>
       <description>This week is a little different as I will be outside Budapest for the majority of the week. I was outside Budapest and came back today (Friday 19 July). I am still in the process of applying for a job-seeking visa. There was one important document for which I had to return early but eventually I was able to vist the office to get the same!&#xA;CTFs is something I had never tried before but they are very interesting and I want to continue doing it.</description>
     </item>
     <item>
       <title>Job Hunting: Week 3: No one is even interested in taking an interview. Wow. But I will make something of my own and they will see.</title>
-      <link>https://adityabhardwaj.dev/posts/015-job-hunting-week-3/</link>
+      <link>http://localhost:1313/posts/015-job-hunting-week-3/</link>
       <pubDate>Mon, 08 Jul 2024 13:34:04 +0200</pubDate>
-      <guid>https://adityabhardwaj.dev/posts/015-job-hunting-week-3/</guid>
+      <guid>http://localhost:1313/posts/015-job-hunting-week-3/</guid>
       <description>I will start the newsletter this week. I am still applying for jobs but it&amp;rsquo;s so hard to get interviews haha. Still at it. 08 July - Monday I have chosen the theme for the newsletter and I used Canva for this! They have a lot of templates. I think it is better to give headlines or the title of the news rather than writing about one piece. It will also allow me to gather more news in one place.</description>
     </item>
     <item>
       <title>Job Hunting: Week 2: Finally graduated! Need to do something very different</title>
-      <link>https://adityabhardwaj.dev/posts/014-job-hunting-week-2/</link>
+      <link>http://localhost:1313/posts/014-job-hunting-week-2/</link>
       <pubDate>Mon, 01 Jul 2024 18:44:04 +0200</pubDate>
-      <guid>https://adityabhardwaj.dev/posts/014-job-hunting-week-2/</guid>
+      <guid>http://localhost:1313/posts/014-job-hunting-week-2/</guid>
       <description>I had my thesis defense on 28 June, Friday and I am happy to announce it was successful!&#xA;01 July - Monday I will make a simple app containing cybersecurity news. Yet to decide on the design scheme but have a general idea. If I take a course from Udemy, should be enough to get me started towards what I want. Should have no ads, no data collection, signup on a single website using QR code.</description>
     </item>
     <item>
       <title>Job Hunting: Week 1: Need to showcase what I know</title>
-      <link>https://adityabhardwaj.dev/posts/013-job-hunting-week-1/</link>
+      <link>http://localhost:1313/posts/013-job-hunting-week-1/</link>
       <pubDate>Mon, 24 Jun 2024 20:44:04 +0200</pubDate>
-      <guid>https://adityabhardwaj.dev/posts/013-job-hunting-week-1/</guid>
+      <guid>http://localhost:1313/posts/013-job-hunting-week-1/</guid>
       <description>This is the week where I have my thesis defense. And then I can finally say that I completed my Master&amp;rsquo;s degree!&#xA;24 June - Monday I just finished writing notes for OSI Model and will share them soon in my website Dezible. I think this was the first time when I actually liked learning (and not just cramming) about OSI layer. 25 June - Tuesday It was a fun night as my friend was leaving back to India.</description>
     </item>
     <item>
       <title>Job Hunting: Hoping on one job application. Moving to weekly post!</title>
-      <link>https://adityabhardwaj.dev/posts/012-job-hunting-week-1/</link>
+      <link>http://localhost:1313/posts/012-job-hunting-week-1/</link>
       <pubDate>Fri, 21 Jun 2024 22:42:52 +0200</pubDate>
-      <guid>https://adityabhardwaj.dev/posts/012-job-hunting-week-1/</guid>
+      <guid>http://localhost:1313/posts/012-job-hunting-week-1/</guid>
       <description>One of my old-childhood friend came to Budapest to visit me and the city. It was really nice as we went to the Coldplay concert and even went to thermal bath. Though I enjoyed a lot, I was not able to devote much time to job hunting. I have received a warm response from one of the jobs I applied to and I am really hoping to hear positive news.</description>
     </item>
     <item>
       <title>Job Hunting Day 2</title>
-      <link>https://adityabhardwaj.dev/posts/011-job-hunting-day-2/</link>
+      <link>http://localhost:1313/posts/011-job-hunting-day-2/</link>
       <pubDate>Fri, 14 Jun 2024 16:42:52 +0200</pubDate>
-      <guid>https://adityabhardwaj.dev/posts/011-job-hunting-day-2/</guid>
+      <guid>http://localhost:1313/posts/011-job-hunting-day-2/</guid>
       <description>I have been focusing more on the job hunting process now. Although I still have my thesis defense to prepare, would it even matter even if I ace it?&#xA;Although I would feel very happy to conclude my studies but as an immigrant, you have to think about the next (two)steps at any given point of time.&#xA;I have applied to a total of 4 jobs up until now. Let&amp;rsquo;s see where that goes.</description>
     </item>
     <item>
       <title>Job Hunting Day 1</title>
-      <link>https://adityabhardwaj.dev/posts/010-job-hunting-day-1/</link>
+      <link>http://localhost:1313/posts/010-job-hunting-day-1/</link>
       <pubDate>Thu, 13 Jun 2024 19:42:05 +0200</pubDate>
-      <guid>https://adityabhardwaj.dev/posts/010-job-hunting-day-1/</guid>
+      <guid>http://localhost:1313/posts/010-job-hunting-day-1/</guid>
       <description>It is 7:44 P.M. at the time of writing.&#xA;I had a long day working on the presentation for my thesis. I added content on Shortest Vector Problem (SVP) and Shortest Integer Solution (SIS) which are important concepts in lattice-based cryptography. Though I am sure I added the important parts I will also refer to these notes for a better understanding.&#xA;The next thing to do is to add the ROS attack.</description>
     </item>
   </channel>
