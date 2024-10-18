@@ -6,7 +6,7 @@ draft: false
 
 Here I will share the links of my other social media profiles or online presence.
 
-The primary one being [Dezible](https://dezible.com), my project where I want to share concepts and tutorials in cybersecurity, in the Q/A form.
+The primary one being [Dezible](https://dezible.com), my project where I want to share concepts/tutorials in cybersecurity, in the Q/A form.
 
 I also DJ sometimes and normally post my mixes on YouTube but here's my Soundcloud page: [Psyklopp - Soundcloud](https://soundcloud.com/psyklopp)
 
