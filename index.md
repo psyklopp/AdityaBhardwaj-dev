@@ -5,11 +5,15 @@ layout: default
 I am a Ph.D candidate at [University of Twente](https://www.utwente.nl/en/) in the [Semantics, Cybersecurity, and Services (SCS) group](https://www.utwente.nl/en/eemcs/scs/), working under the supervision of [Dr. Thijs van Ede](https://thijsvane.de/) and [Dr. Andrea Continella](https://conand.me/).
 
 <details>
+  
 <summary>A little bit more...</summary>
+<p>
+ My research interest lies in AI-driven threat analysis in incident response.
+</p>
 
-My research interest lies in AI-driven threat analysis in incident response.
-
-Before joining the University of Twente, I completed my Masters in Computer Science with Cybersecurity specilization at [Eötvös Loránd University](https://www.elte.hu/en/).
+<p>
+Before joining the University of Twente, I completed my Masters in Computer Science with Cybersecurity specilization at <a href="https://www.elte.hu/en/">Eötvös Loránd University</a>.
+</p>
 
 </details>
 
